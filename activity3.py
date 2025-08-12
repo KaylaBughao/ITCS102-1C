@@ -1,0 +1,1 @@
+print("Hello \n\t\tma\rgandang hapon po")
