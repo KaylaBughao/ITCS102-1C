@@ -11,3 +11,4 @@ for i in range(1, 11):
         print(f"{number} is even, not added.")
 
 print("\nSum of all odd numbers:", odd_sum)
+
